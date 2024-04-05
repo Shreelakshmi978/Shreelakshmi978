@@ -2,8 +2,9 @@
 - 😄 Pronouns: she/her
 - 👀 I’m interested in Fronted Developing
 - 🌱 I’m currently learning Javascript
+- 🌱 Language known: Html, CSS, Javascript, SQl, Python, Java
 - 💞️ I’m looking to collaborate on Fronted projects and even database management related project.
-- ⚡ Fun fact: I love to be creative withg my ideas 
+- ⚡ Fun fact: I love to be creative with my ideas 
 
 <!---
 Shreelakshmi978/Shreelakshmi978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
